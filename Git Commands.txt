@@ -1,0 +1,14 @@
+mkdir foldername-creates a folder
+clear - clears screen
+pwd - shows path of git directory
+cd git - changes directory
+git init - initializes git repository in that path/folder.
+touch - create files (ex- a.txt, abc.pdf) specify extention.
+rm abc.tx - removes a files from that directory
+vi a.txt - opens a file
+press esc :wq - goes back to bash window.
+git status - tracking command
+git add filename - to add files to tracking.
+git add . - to add all files to tracking
+git commit
+git config --global user.email name "swamy"
